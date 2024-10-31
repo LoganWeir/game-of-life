@@ -8,6 +8,6 @@ fi
 
 source venv/bin/activate
 pip install -q --disable-pip-version-check -r requirements.txt
-python game_of_life.py
+python src/game_of_life.py
 
 deactivate
