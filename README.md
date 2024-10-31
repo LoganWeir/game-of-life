@@ -8,6 +8,9 @@ This will cd you into this directory, activate the venv (or create one if you do
 
 The generated gif can be run in chrome after the program completes.
 
+Output example:
+![](output.gif)
+
 # To Do
 
 - [ ] Allow for custom seed generation w/ tkinter
